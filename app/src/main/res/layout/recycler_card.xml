@@ -47,7 +47,7 @@
                     android:layout_height="wrap_content"
                     android:text="service my car"
                     android:textColor="@color/title_text"
-                    android:textSize="16sp"
+                    android:textSize="18sp"
                     android:textStyle="bold" />
 
                 <TextView
@@ -55,17 +55,18 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Car Details: My IOS test car (P - 42323)"
-                    android:textSize="11sp" />
+                    android:textSize="13sp" />
 
                 <TextView
                     android:id="@+id/date_of_services"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Date of Services: 03 January, 2022"
-                    android:textSize="11sp" />
+                    android:textSize="13sp" />
             </LinearLayout>
 
             <TextView
+                android:id="@+id/order_track_name"
                 android:layout_weight="0.40"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
@@ -73,7 +74,8 @@
                 android:text="Driver On The Way To Pick-Up"
                 android:textStyle="bold"
                 android:gravity="center"
-                android:textSize="14sp"/>
+                android:textSize="14sp"
+                android:layout_marginStart="5dp"/>
 
         </LinearLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>

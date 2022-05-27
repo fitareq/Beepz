@@ -4,8 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Beepz/app/src/main/res/drawable/bg.xml" value="0.2203125" />
+        <entry key="..\:/Beepz/app/src/main/res/drawable/blue_rounded_bg.xml" value="0.2169230769230769" />
+        <entry key="..\:/Beepz/app/src/main/res/drawable/ic_baseline_check_circle_24.xml" value="0.21388888888888888" />
+        <entry key="..\:/Beepz/app/src/main/res/drawable/ic_baseline_moped_24.xml" value="0.21388888888888888" />
+        <entry key="..\:/Beepz/app/src/main/res/drawable/ic_outline_circle_24.xml" value="0.21388888888888888" />
+        <entry key="..\:/Beepz/app/src/main/res/drawable/ic_outline_thumb_up_alt_24.xml" value="0.21388888888888888" />
+        <entry key="..\:/Beepz/app/src/main/res/drawable/ic_outline_thumb_up_alt_24_black.xml" value="0.2203125" />
         <entry key="..\:/Beepz/app/src/main/res/drawable/round_bg.xml" value="0.2203125" />
         <entry key="..\:/Beepz/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Beepz/app/src/main/res/layout/activity_tracker.xml" value="0.33" />
         <entry key="..\:/Beepz/app/src/main/res/layout/recycler_card.xml" value="0.22" />
         <entry key="..\:/Beepz/app/src/main/res/layout/recycler_view_card.xml" value="0.8305921052631579" />
       </map>
